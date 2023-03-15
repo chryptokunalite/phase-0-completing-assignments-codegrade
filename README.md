@@ -15,8 +15,7 @@ your first assignment!
 
 All assignments are hosted on GitHub. In order to work on them, however, you
 will need to complete work on your local machine. Once you're done, you will
-submit your assignment to Canvas using a platform called CodeGrade.
-
+submit your assignment to Canvas using a platform called e
 The general process is:
 
 - Click the GitHub logo button (the 'OctoCat') in Canvas; we will show you
